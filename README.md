@@ -1,2 +1,2 @@
-# Flowers for Encourage
- Love from SDS students
+# Flowers for Encouragement
+ Love from SDS students to our best ML professor
